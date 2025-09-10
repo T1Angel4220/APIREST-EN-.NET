@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Sexto Semestre\\Aplicaciones Distribuidas\\APIREST-EN-.NET\\MiApiRest\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFE4C5B-9CCD-473D-A1F1-ACB72D35D714}|MiApiRest\\MiApiRest.csproj|c:\\sexto semestre\\aplicaciones distribuidas\\apirest-en-.net\\miapirest\\miapirest\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFE4C5B-9CCD-473D-A1F1-ACB72D35D714}|MiApiRest\\MiApiRest.csproj|solutionrelative:miapirest\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -21,15 +26,28 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Sexto Semestre\\Aplicaciones Distribuidas\\APIREST-EN-.NET\\MiApiRest\\MiApiRest\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "MiApiRest\\Models\\Producto.cs",
+              "ToolTip": "C:\\Sexto Semestre\\Aplicaciones Distribuidas\\APIREST-EN-.NET\\MiApiRest\\MiApiRest\\Models\\Producto.cs",
+              "RelativeToolTip": "MiApiRest\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T02:43:20.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Bookmark",
