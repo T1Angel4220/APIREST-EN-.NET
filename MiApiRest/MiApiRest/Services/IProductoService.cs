@@ -1,6 +1,6 @@
 using MiApiRest.Models;
 
-namespace APIREST_WINDOWS_.Services
+namespace MiApiRest.Services
 {
     public interface IProductoService
     {
