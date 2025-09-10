@@ -1,8 +1,8 @@
-using APIREST_WINDOWS_.Models;
-using APIREST_WINDOWS_.Services;
+using MiApiRest.Models;
+using MiApiRest.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace APIREST_WINDOWS_.Controllers
+namespace MiApiRest.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

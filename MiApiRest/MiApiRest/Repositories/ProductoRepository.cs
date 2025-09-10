@@ -1,8 +1,7 @@
-﻿using APIREST_WINDOWS_.Models;
-using MiApiRest.Models;
+﻿using MiApiRest.Models;
 using System.Xml.Linq;
 
-namespace APIREST_WINDOWS_.Repositories
+namespace MiApiRest.Repositories
 {
     public class ProductoRepository : IProductoRepository
     {
