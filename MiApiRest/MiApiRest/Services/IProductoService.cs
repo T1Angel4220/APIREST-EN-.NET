@@ -8,6 +8,6 @@ namespace MiApiRest.Services
         Producto? ObtenerProducto(int id);
         void CrearProducto(Producto producto);
         void ActualizarProducto(Producto producto);
-        void EliminarProducto(int id);
+        void EliminarProducto(int id);
    }
 }
